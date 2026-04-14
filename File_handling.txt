@@ -1,0 +1,3 @@
+Hello, this is the first line.
+File handling in Python is easy.
+This line is added later using append mode.
